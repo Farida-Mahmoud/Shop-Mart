@@ -110,7 +110,7 @@ export default function Footer() {
       </div>
 
       <div className="border-t border-gray-200 mt-8 p-4 text-center text-gray-500 text-sm">
-        © {new Date().getFullYear()} Developed by Farida Mahmoud All rights reserved.
+        © {new Date().getFullYear()}  All rights reserved.
       </div>
     </footer>
   );
